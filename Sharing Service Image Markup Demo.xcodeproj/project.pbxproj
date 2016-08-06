@@ -11,6 +11,7 @@
 		40E634041D55795000F1DDFE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40E634031D55795000F1DDFE /* ViewController.swift */; };
 		40E634061D55795000F1DDFE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 40E634051D55795000F1DDFE /* Assets.xcassets */; };
 		40E634091D55795000F1DDFE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 40E634071D55795000F1DDFE /* Main.storyboard */; };
+		40E634111D557A8F00F1DDFE /* DSC_0008.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 40E634101D557A8F00F1DDFE /* DSC_0008.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		40E634051D55795000F1DDFE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		40E634081D55795000F1DDFE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		40E6340A1D55795000F1DDFE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		40E634101D557A8F00F1DDFE /* DSC_0008.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = DSC_0008.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				40E634051D55795000F1DDFE /* Assets.xcassets */,
 				40E634071D55795000F1DDFE /* Main.storyboard */,
 				40E6340A1D55795000F1DDFE /* Info.plist */,
+				40E634101D557A8F00F1DDFE /* DSC_0008.JPG */,
 			);
 			path = "Sharing Service Image Markup Demo";
 			sourceTree = "<group>";
@@ -121,6 +124,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				40E634111D557A8F00F1DDFE /* DSC_0008.JPG in Resources */,
 				40E634061D55795000F1DDFE /* Assets.xcassets in Resources */,
 				40E634091D55795000F1DDFE /* Main.storyboard in Resources */,
 			);
